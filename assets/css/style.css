@@ -680,7 +680,7 @@ form {
       border-right-width: 5px black;
       border-bottom-width: 5px black; 
       overflow: hidden;
-      
+      color: white;
     }
 
     .centered-button2:hover {
