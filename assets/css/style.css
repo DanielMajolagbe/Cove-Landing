@@ -679,10 +679,10 @@ form {
       border-radius: 17px;
       background-color: transparent;
       font-family: Georgia, 'Times New Roman', Times, serif;
-     border-top-width: 2px;
-      border-left-width: 2px;
-      border-right-width: 5px;
-      border-bottom-width: 5px; 
+     border-top-width: black 2px;
+      border-left-width: 2px black;
+      border-right-width: 5px black;
+      border-bottom-width: 5px black; 
       overflow: hidden;
       
     }
