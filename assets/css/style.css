@@ -684,8 +684,7 @@ form {
       border-right-width: 5px;
       border-bottom-width: 5px; 
       overflow: hidden;
-      transition: background-color 0.3s, transform 0.3s;
-      transition: transform 0.3s;
+      
     }
 
     .centered-button2:hover {
@@ -693,6 +692,10 @@ form {
       transform: scale(1.05); /* Scale the button slightly on hover for the 3D effect */
       transform: rotate(3deg);
       color: black;
+       border-top-width: 2px;
+      border-left-width: 2px;
+      border-right-width: 4px;
+      border-bottom-width: 4px; 
     }
 
 
