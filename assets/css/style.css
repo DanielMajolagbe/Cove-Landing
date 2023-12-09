@@ -679,16 +679,19 @@ form {
       border-radius: 17px;
       background-color: transparent;
       font-family: Georgia, 'Times New Roman', Times, serif;
-      border: 2px solid black;
+     border-top-width:2px;
+      border-left-width: 2px;
+      border-right-width: 5px;
+      border-bottom-width: 5px; 
       overflow: hidden;
       transition: background-color 0.3s, transform 0.3s;
       transition: transform 0.3s;
     }
 
     .centered-button2:hover {
-      background-color: #5ca28d; /* Darker green on hover */
+      background-color: black; /* Darker green on hover */
       transform: scale(1.05); /* Scale the button slightly on hover for the 3D effect */
-      transform: rotate(6deg);
+      transform: rotate(3deg);
       color: white;
     }
 
