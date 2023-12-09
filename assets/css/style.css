@@ -641,15 +641,11 @@ form {
       font-size: 16px;
       cursor: pointer;
       border-radius: 35px;
-     background-color: transparent;
+     background-color: black;
       font-family: Georgia, 'Times New Roman', Times, serif;
-      border-top-width:2px;
-      border-left-width: 2px;
-      border-right-width: 5px;
-      border-bottom-width: 5px; 
+     boeder: 2px solid black;
       overflow: hidden;
-      transition: background-color 0.3s, transform 0.3s;
-      transition: transform 0.3s;
+      
     }
 
     .centered-button:hover {
