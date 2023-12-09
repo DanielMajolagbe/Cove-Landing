@@ -343,7 +343,7 @@ h6,
 .custom-navmenu .custom-menu,
 .custom-navmenu .custom-menu li {
   padding: 0;
-  margin: 0;
+  margin: 20px;
   list-style: none;
 }
 
@@ -712,52 +712,3 @@ form {
 
 
 
-@media (max-width: 768px) {
-  .navbar-brand {
-    font-size: 20px;
-  }
-
-  .navbar {
-    padding: 10px 0;
-  }
-
-  .custom-navbar {
-    padding: 10px 0;
-  }
-
-  .centered-button {
-    font-size: 14px;
-    padding: 10px 20px;
-  }
-
-  .centered-container {
-    padding-bottom: 20px;
-  }
-}
-
-/* Adjustments for even smaller screens */
-@media (max-width: 576px) {
-  .navbar-brand {
-    font-size: 18px;
-  }
-
-  .navbar {
-    padding: 8px 0;
-  }
-
-  .custom-navbar {
-    padding: 8px 0;
-  }
-
-  .centered-button {
-    font-size: 12px;
-    padding: 8px 16px;
-  }
-
-  .centered-container {
-    padding-bottom: 16px;
-  }
-}
-   
-    
-   
