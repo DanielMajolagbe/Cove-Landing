@@ -672,15 +672,15 @@ form {
       padding: 6px 20px;
       font-size: 14px;
       cursor: pointer;
-      border-radius: 17px;
-      background-color: black;
+      border-radius: 10px;
+      background-color: white;
       font-family: Georgia, 'Times New Roman', Times, serif;
      border-top-width: black 2px;
       border-left-width: 2px black;
       border-right-width: 5px black;
       border-bottom-width: 5px black; 
       overflow: hidden;
-      color: white;
+      
     }
 
     .centered-button2:hover {
