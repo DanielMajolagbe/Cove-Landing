@@ -338,6 +338,7 @@ h6,
 /* Custom Navmenu */
 .custom-navmenu {
   background: #0d1e2d;
+  margin-left: 10px;
 }
 
 .custom-navmenu .custom-menu,
@@ -368,6 +369,7 @@ h6,
 .custom-navmenu h3 {
   font-size: 20px;
   color: #fff;
+  margin-left: 30px;
 }
 
 .custom-navmenu p {
