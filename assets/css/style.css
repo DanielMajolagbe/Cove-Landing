@@ -343,7 +343,7 @@ h6,
 .custom-navmenu .custom-menu,
 .custom-navmenu .custom-menu li {
   padding: 0;
-  margin: 20px;
+  margin-left: 20px;
   list-style: none;
 }
 
