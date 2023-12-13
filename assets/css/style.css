@@ -567,13 +567,13 @@ form {
     
     input {
       padding: 10px 20px;
-      height: 8px;
-      border: 1px solid #f1f0b6;
+      height: 10px;
+      border: 1px solid;
       animation: bounce 2s 1s;
       border-radius: 7px;
       background-color: rgb(227, 227, 227);
       font-family: Georgia, 'Times New Roman', Times, serif;
-      font-size: 10px;
+      font-size: 8px;
       color: rgb(156, 156, 156);
     }
     
