@@ -336,17 +336,20 @@ h6,
 # Header
 --------------------------------------------------------------*/
 /* Custom Navmenu */
+./* Custom Navmenu */
 .custom-navmenu {
   background: #0d1e2d;
-  margin-left: 10px;
+  margin-left: 20px; /* Adjust margin for the entire navmenu */
 }
 
 .custom-navmenu .custom-menu,
 .custom-navmenu .custom-menu li {
   padding: 0;
-  margin-left: 20px;
+  margin-left: 10px; /* Adjust margin for menu items */
   list-style: none;
 }
+
+/* Other styles remain the same */
 
 .custom-navmenu .custom-menu li {
   margin-bottom: 0;
